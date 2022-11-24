@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="first.Start"
+             Title="搜尋巡檢點">
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+            <Grid
+    HorizontalOptions="FillAndExpand" VerticalOptions="Center"
+    Padding="30,0"
+      >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Entry Placeholder="輸入地點PIN"
+           x:Name="entryPin"
+           Grid.Row="2"
+           HorizontalOptions="FillAndExpand"
+             />
+                <Button Text="確定"
+            x:Name="buttonSure"
+            Grid.Row="3"
+            HorizontalOptions="FillAndExpand"
+            />
+            </Grid>
+            <Button Text="掃描QRcode"
+            x:Name="buttonScan"
+            Grid.Row="5"
+            HorizontalOptions="FillAndExpand"
+              />
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
