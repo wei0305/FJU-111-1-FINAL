@@ -8,75 +8,75 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = first
-build_property.ProjectDir = /Users/FinalPorject/first/
+build_property.ProjectDir = /Users/sunwei/FJU-111-1-FINAL/first/
 
-[/Users/FinalPorject/first/App.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[/Users/FinalPorject/first/AppShell.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/FinalPorject/first/ChangeAccountPage.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/ChangeAccountPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.ChangeAccountPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ChangeAccountPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ChangeAccountPage.xaml
 
-[/Users/FinalPorject/first/ChangePasswordPage.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/ChangePasswordPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.ChangePasswordPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ChangePasswordPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ChangePasswordPage.xaml
 
-[/Users/FinalPorject/first/HomePage.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
 
-[/Users/FinalPorject/first/MainPage.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[/Users/FinalPorject/first/Resources/Styles/Colors.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
 
-[/Users/FinalPorject/first/Resources/Styles/Styles.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
 
-[/Users/FinalPorject/first/ScanPage.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/ScanPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.ScanPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ScanPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ScanPage.xaml
 
-[/Users/FinalPorject/first/SettingPage.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/SettingPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.SettingPage.xaml
 build_metadata.AdditionalFiles.TargetPath = SettingPage.xaml
 build_metadata.AdditionalFiles.RelativePath = SettingPage.xaml
 
-[/Users/FinalPorject/first/Start.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/Start.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.Start.xaml
 build_metadata.AdditionalFiles.TargetPath = Start.xaml
 build_metadata.AdditionalFiles.RelativePath = Start.xaml
 
-[/Users/FinalPorject/first/StatePage.xaml]
+[/Users/sunwei/FJU-111-1-FINAL/first/StatePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = first.StatePage.xaml
 build_metadata.AdditionalFiles.TargetPath = StatePage.xaml

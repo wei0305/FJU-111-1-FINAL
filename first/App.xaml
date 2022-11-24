@@ -16,7 +16,7 @@
     <Application.MainPage>
         <Shell>
             <TabBar x:Name="PhoneTabs">
-                <Tab Title="首頁" Icon="dotnet_bot.svg">
+                <Tab Title="首頁!" Icon="dotnet_bot.svg">
                     <ShellContent ContentTemplate="{DataTemplate local:MainPage}"/>
                 </Tab> 
                 <Tab Title="巡檢狀態" Icon="dotnet_bot.svg">
